@@ -1,0 +1,10 @@
+The main folders and files in this project include
+data for training files
+domain.yml for domain configuration
+config.yml for NLU pipeline
+actions.py for custom actions
+endpoints.yml for API connections
+streamlit_app.py for user interface
+models folder for trained models
+requirements.txt for dependencies
+Dockerfile for container setup
