@@ -1,0 +1,4 @@
+The project was tested using built in Rasa testing tools.
+Intent classification and entity extraction achieved high accuracy.
+Dialogue flows were validated using automated story testing.
+No major system failures were observed during testing.
