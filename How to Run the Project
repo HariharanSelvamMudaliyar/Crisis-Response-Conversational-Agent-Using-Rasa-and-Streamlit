@@ -1,0 +1,7 @@
+Step one Train the chatbot model using Rasa train
+
+Step two Start the Rasa server using Rasa run enable api
+
+Step three Start the user interface using Streamlit run streamlit_app.py
+
+Step four Open your browser and access the application
