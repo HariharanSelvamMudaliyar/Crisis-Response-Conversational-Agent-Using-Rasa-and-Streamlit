@@ -1,0 +1,8 @@
+Follow these steps to run the project locally
+First install Python version 3.9 or higher
+Create and activate a virtual environment
+Install dependencies using requirements.txt
+Train the Rasa model
+Start the Rasa server
+Run the Streamlit application
+Open the application in your browser
